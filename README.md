@@ -4,6 +4,8 @@ This is a simple Ruby IVR designed to showcase some LAML features.
 
 It was presented at ClueCon 2020 by [SignalWire](https://signalwire.com).
 
+[Presentation](https://docs.google.com/presentation/d/1qN2F9ypPycKVj3RoH6DIM2sKy3RKYtK9cFJcIAThp8g/edit?usp=sharing)
+
 ## Goals
 
 - If in office hours, ask caller to choose Sales or Support
