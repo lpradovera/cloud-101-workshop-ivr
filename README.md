@@ -2,6 +2,8 @@
 
 This is a simple Ruby IVR designed to showcase some LAML features.
 
+It was presented at ClueCon 2020 by [SignalWire](https://signalwire.com).
+
 ## Goals
 
 - If in office hours, ask caller to choose Sales or Support
@@ -23,3 +25,7 @@ Then, set up your phone number to use the URL as a voice handler and call the nu
 - [LAML XML reference](https://docs.signalwire.com/topics/laml-xml)
 - [LAML REST API](https://docs.signalwire.com/topics/laml-api)
 - [SignalWire guides](https://signalwire.com/resources/guides)
+
+## Legal
+
+Copyright 2020 [SignalWire](https://signalwire.com)
